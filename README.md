@@ -14,11 +14,11 @@
 [🌐 Launch HireWise AI Application](https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore)
 
 ---
-
 ## 📸 Project Screenshot
 
-![HireWise AI Dashboard](full.png)
-
+<p align="center">
+  <img src="full.png" alt="HireWise AI Dashboard" width="100%">
+</p>
 ---
 
 ## 📌 Project Overview
