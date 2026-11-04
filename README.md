@@ -17,11 +17,8 @@
 ## 📸 Project Screenshot
 
 <p align="center">
-  <img src="Screenshot/full.png"
-       width="1000"
-       height="600"
-       alt="HireWise AI Project Preview">
-</p>
+ <img src="Screenshot/full.png" width="400%" alt="Project Preview">
+</p>  increcess in width
 
 ---
 
