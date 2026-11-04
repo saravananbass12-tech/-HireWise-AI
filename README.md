@@ -17,8 +17,12 @@
 ## 📸 Project Screenshot
 
 <p align="center">
- <img src="Screenshot/full.png" width="400%" alt="Project Preview">
+  <img src="Screenshot/full.png"
+       width="1000"
+       height="600"
+       alt="HireWise AI Project Preview">
 </p>
+
 ---
 
 ## 📌 Project Overview
@@ -213,50 +217,6 @@ The dashboard displays the following accuracy values in the current application 
 | Application Accuracy |   95.85% |
 
 *Note: These are the values displayed in the current dashboard. Actual model performance should be evaluated using an independent test dataset.*
-
----
-
-## 💻 Installation and Setup
-
-### Step 1 – Clone the Repository
-
-```bash
-git clone https://github.com/saravananbass12-tech/-HireWise-AI.git
-```
-
-### Step 2 – Navigate to Project Folder
-
-```bash
-cd -HireWise-AI
-```
-
-### Step 3 – Create Virtual Environment
-
-```bash
-python -m venv .venv
-```
-
-### Step 4 – Activate Virtual Environment
-
-Windows PowerShell:
-
-```bash
-.venv\Scripts\Activate.ps1
-```
-
-### Step 5 – Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Step 6 – Run the Application
-
-```bash
-streamlit run app.py
-```
-
-The application will open in your browser.
 
 ---
 
