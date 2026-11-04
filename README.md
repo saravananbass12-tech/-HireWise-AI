@@ -10,7 +10,7 @@
 ## 🌐 Live Demo
 
 You can access the live application at:
-🔗 **[[https://saro-sarav.free.nf](https://hirewise-ai-3gbjctudzhd4r9w79ed2fh)](https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore)**
+🔗 **[[HireWise AI](https://hirewise-ai-3gbjctudzhd4r9w79ed2fh)](https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore)**
 
 
 ---
