@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 </p>
-
 <br>
 
 ## 🌐 Live Demo
