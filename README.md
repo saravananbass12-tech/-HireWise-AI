@@ -9,9 +9,7 @@
 
 ## 🌐 Live Demo
 
-**Live Application:**
-
-https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore
+**Live Application:** https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore
 
 ---
 ## 📸 Project Screenshot
