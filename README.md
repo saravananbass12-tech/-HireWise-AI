@@ -7,13 +7,12 @@
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 </p>
 
-## 🚀 Live Demo
+## 🌐 Live Demo
 
-**Experience HireWise AI Online:**
+You can access the live application at:
+🔗 **[[https://saro-sarav.free.nf](https://hirewise-ai-3gbjctudzhd4r9w79ed2fh)](https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore)**
 
-<p align="center">
-  [🌐 Launch HireWise AI Application](https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore)
-</p>
+
 ---
 ## 📸 Project Screenshot
 
