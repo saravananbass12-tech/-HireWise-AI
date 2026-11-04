@@ -9,9 +9,9 @@
 
 ## 🌐 Live Demo
 
-You can access the live application at:
-🔗 **[[HireWise AI](https://hirewise-ai-3gbjctudzhd4r9w79ed2fh)](https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore)**
+**Live Application:**
 
+https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore
 
 ---
 ## 📸 Project Screenshot
