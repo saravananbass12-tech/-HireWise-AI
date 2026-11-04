@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 </p>
 
+<br>
+
 ## 🌐 Live Demo
  
 **Live Application:**   https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore
