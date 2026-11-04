@@ -17,7 +17,7 @@
 ## 📸 Project Screenshot
 
 <p align="center">
- <img src="Screenshot/full.png" width="700%" alt="Project Preview">
+ <img src="Screenshot/full.png" width="100%" alt="Project Preview">
 </p>  increcess in width
 
 ---
