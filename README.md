@@ -1,4 +1,4 @@
-# 💼 HireWise AI      \<br>  **Human Job Search and Recruitment Outcome Prediction**
+# 💼 HireWise AI      <br>  **Human Job Search and Recruitment Outcome Prediction**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white">
