@@ -1,4 +1,21 @@
-# 💼 HireWise AI      <br>  **Human Job Search and Recruitment Outcome Prediction**
+# 💼 HireWise AI
+
+### **Human Job Search and Recruitment Outcome Prediction**
+
+<p align="center">
+  <a href="https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore">
+    🚀 Live Demo
+  </a>
+</p>
+
+---
+
+## 📸 Project Screenshot
+
+<p align="center">
+  <img src="full.png" alt="HireWise AI Dashboard" width="100%">
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white">
@@ -269,16 +286,6 @@ numpy
 scikit-learn
 plotly
 ```
-
----
-
-## 🌐 Deployment
-
-**Platform:** Streamlit Community Cloud
-
-**Live Application:**
-
-https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore
 
 ---
 
