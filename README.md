@@ -12,8 +12,9 @@
 **Experience HireWise AI Online:**
 
 <p align="center">
-[🌐 Launch HireWise AI Application](https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore)
+          [🌐 Launch HireWise AI Application](https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore)
 </p>
+
 ---
 ## 📸 Project Screenshot
 
