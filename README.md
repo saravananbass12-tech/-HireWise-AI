@@ -17,7 +17,7 @@
 ## 📸 Project Screenshot
 
 <p align="center">
- <img src="Screenshot/full.png" width="200%" alt="Project Preview">
+ <img src="Screenshot/full.png" width="400%" alt="Project Preview">
 </p>
 ---
 
