@@ -17,7 +17,7 @@
 ## 📸 Project Screenshot
 
 <p align="center">
-  <img src="full.png" alt="HireWise AI Dashboard" width="100%">
+ <img src="Screenshot/full.png" width="90%" alt="Project Preview">
 </p>
 ---
 
