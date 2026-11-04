@@ -3,21 +3,6 @@
 ### **Human Job Search and Recruitment Outcome Prediction**
 
 <p align="center">
-  <a href="https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore">
-    🚀 Live Demo
-  </a>
-</p>
-
----
-
-## 📸 Project Screenshot
-
-<p align="center">
-  <img src="full.png" alt="HireWise AI Dashboard" width="100%">
-</p>
-
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Streamlit-Framework-red?style=for-the-badge&logo=streamlit&logoColor=white">
   <img src="https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green?style=for-the-badge">
