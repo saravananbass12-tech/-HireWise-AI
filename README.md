@@ -1,5 +1,4 @@
 # 💼 HireWise AI
-# **Human Job Search and Recruitment Outcome Prediction**
 
 
 <p align="center">
