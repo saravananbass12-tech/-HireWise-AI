@@ -11,8 +11,9 @@
 
 **Experience HireWise AI Online:**
 
+<p align="center">
 [🌐 Launch HireWise AI Application](https://hirewise-ai-3gbjctudzhd4r9w79ed2fh.streamlit.app/explore)
-
+</p>
 ---
 ## 📸 Project Screenshot
 
@@ -216,26 +217,6 @@ The dashboard displays the following accuracy values in the current application 
 
 ---
 
-## 📂 Project Structure
-
-```text
-HireWise_AI/
-│
-├── app.py
-│
-├── human_job_prediction_50000_records_converted.csv
-│
-├── requirements.txt
-│
-├── README.md
-│
-├── .gitignore
-│
-└── full.png
-```
-
----
-
 ## 💻 Installation and Setup
 
 ### Step 1 – Clone the Repository
@@ -334,11 +315,6 @@ GitHub: [saravananbass12-tech](https://github.com/saravananbass12-tech)
 
 ---
 
-## ⭐ Support
-
-If you find this project useful, consider giving the repository a ⭐ Star on GitHub.
-
----
 
 <p align="center">
   <b>💼 HireWise AI – Making Recruitment Analysis Smarter with Machine Learning.</b>
